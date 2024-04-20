@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: philipphomberger/hello-world-operator:latest
+          tags: philipphomber/hello-world-operator:latest
